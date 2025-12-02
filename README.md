@@ -1,20 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 24
-(no subject)
-Inbox
-
-Cria Do Sistema <dosistemacria@gmail.com>
-Attachments
-Dec 2, 2025, 5:45 PM (3 days ago)
-to me
-
- One attachment
-  •  Scanned by Gmail
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
